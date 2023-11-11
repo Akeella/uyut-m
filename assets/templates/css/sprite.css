@@ -1,0 +1,221 @@
+.sprite {
+    background-image: url(../img/icon/spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sprite-calc {
+    width: 17px;
+    height: 20px;
+    background-position: -5px -5px;
+}
+
+.sprite-calc_g {
+    width: 17px;
+    height: 20px;
+    background-position: -32px -5px;
+}
+
+.sprite-cam {
+    width: 23px;
+    height: 14px;
+    background-position: -59px -5px;
+}
+
+.sprite-clip {
+    width: 30px;
+    height: 33px;
+    background-position: -92px -5px;
+}
+
+.sprite-close {
+    width: 14px;
+    height: 14px;
+    background-position: -132px -5px;
+}
+
+.sprite-delivery-truck {
+    width: 46px;
+    height: 36px;
+    background-position: -156px -5px;
+}
+
+.sprite-delivery-truck_s {
+    width: 23px;
+    height: 18px;
+    background-position: -212px -5px;
+}
+
+.sprite-done {
+    width: 15px;
+    height: 12px;
+    background-position: -245px -5px;
+}
+
+.sprite-download {
+    width: 23px;
+    height: 24px;
+    background-position: -245px -27px;
+}
+
+.sprite-image {
+    width: 23px;
+    height: 18px;
+    background-position: -5px -61px;
+}
+
+.sprite-left {
+    width: 20px;
+    height: 37px;
+    background-position: -38px -61px;
+}
+
+.sprite-left_g {
+    width: 20px;
+    height: 37px;
+    background-position: -68px -61px;
+}
+
+.sprite-ok {
+    width: 23px;
+    height: 23px;
+    background-position: -98px -61px;
+}
+
+.sprite-phone {
+    width: 10px;
+    height: 14px;
+    background-position: -131px -61px;
+}
+
+.sprite-rect {
+    width: 6px;
+    height: 6px;
+    background-position: -151px -61px;
+}
+
+.sprite-repair-tools {
+    width: 38px;
+    height: 38px;
+    background-position: -167px -61px;
+}
+
+.sprite-repair-tools_s {
+    width: 23px;
+    height: 23px;
+    background-position: -215px -61px;
+}
+
+.sprite-right {
+    width: 20px;
+    height: 37px;
+    background-position: -248px -61px;
+}
+
+.sprite-right_o {
+    width: 24px;
+    height: 17px;
+    background-position: -5px -108px;
+}
+
+.sprite-ruler {
+    width: 22px;
+    height: 34px;
+    background-position: -39px -108px;
+}
+
+.sprite-ruler_b {
+    width: 44px;
+    height: 28px;
+    background-position: -71px -108px;
+}
+
+.sprite-ruler_s {
+    width: 23px;
+    height: 14px;
+    background-position: -125px -108px;
+}
+
+.sprite-search {
+    width: 42px;
+    height: 42px;
+    background-position: -215px -108px;
+}
+
+.sprite-spritesheet {
+    width: 237px;
+    height: 175px;
+    background-position: -278px -5px;
+}
+
+.sprite-xml {
+    width: 34px;
+    height: 34px;
+    background-position: -5px -190px;
+}
+.i-3d{
+    background-position: -50px -190px;
+    width: 25px;
+    height: 27px;
+}
+.i-sample{
+    background-position: -100px -190px;
+    width: 40px;
+    height: 26px;
+}
+.example-1{
+    background-position: -150px -250px;
+    width: 40px;
+    height: 40px;
+}
+.example-2{
+    background-position: -150px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-3{
+    background-position: -200px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-4{
+    background-position: -250px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-5{
+    background-position: -300px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-6{
+    background-position: -350px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-7{
+    background-position: -400px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-8{
+    background-position: -450px -200px;
+    width: 40px;
+    height: 40px;
+}
+.example-9{
+    background-position: 0 -250px;
+    width: 40px;
+    height: 40px;
+}
+.example-10{
+    background-position: -50px -250px;
+    width: 40px;
+    height: 40px;
+}
+.i-caret{
+    background-position: -100px -250px;
+    width: 17px;
+    height: 10px;
+}
